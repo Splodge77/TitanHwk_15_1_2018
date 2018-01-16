@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d9bfeb-8051-4654-8e68-426cabf89c3f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Bob.java" afterPath="$PROJECT_DIR$/src/main/java/Bob.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Titan.java" afterPath="$PROJECT_DIR$/src/main/java/Titan.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TitanTest.java" afterPath="$PROJECT_DIR$/src/test/java/TitanTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -23,17 +21,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Titan.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Titan.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Titan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="49" lean-forward="true" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+            <state relative-caret-position="90">
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TitanTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TitanTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TitanTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -367,9 +365,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Titan.java" />
         <option value="$PROJECT_DIR$/src/main/java/Bob.java" />
         <option value="$PROJECT_DIR$/src/test/java/TitanTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Titan.java" />
       </list>
     </option>
   </component>
@@ -614,8 +612,8 @@
     <history-entry file="TitanTest_bobCanRoar - 2018.01.16 at 09h 45m 35s.xml">
       <configuration name="TitanTest.bobCanRoar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TitanTest_titanCanRoar - 2018.01.16 at 08h 52m 05s.xml">
-      <configuration name="TitanTest.titanCanRoar" configurationId="JUnit" />
+    <history-entry file="TitanTest_bobCanRoar - 2018.01.16 at 09h 51m 00s.xml">
+      <configuration name="TitanTest.bobCanRoar" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TitanTest_titanCanRoar - 2018.01.16 at 08h 54m 45s.xml">
       <configuration name="TitanTest.titanCanRoar" configurationId="JUnit" />
@@ -686,14 +684,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Titan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="49" lean-forward="true" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Bob.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -716,6 +706,14 @@
             <element signature="e#243#244#0" expanded="true" />
             <element signature="e#302#303#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Titan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>

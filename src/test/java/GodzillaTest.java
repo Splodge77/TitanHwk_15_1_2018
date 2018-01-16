@@ -9,7 +9,7 @@ public class GodzillaTest {
 
     @Before
     public void before(){
-        godzilla = new Godzilla("Bob", 3000);
+        godzilla = new Godzilla("Bob", 3000, 300);
     }
 
     @Test
@@ -20,5 +20,10 @@ public class GodzillaTest {
     @Test
     public void hasHp(){
         assertEquals(3000, godzilla.getHp());
+    }
+
+    @Test
+    public void hasDmg(){
+        assertEquals(300, godzilla.getDmg());
     }
 }

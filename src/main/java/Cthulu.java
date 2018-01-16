@@ -1,10 +1,10 @@
-public class Godzilla extends Titan {
-    
-    private String name;
-    private int hp;
-    private int dmg;
-    
-    public Godzilla(String name, int hp, int dmg){
+public class Cthulu extends Titan{
+
+    String name;
+    int hp;
+    int dmg;
+
+    public Cthulu(String name, int hp, int dmg){
         this.name = name;
         this.hp = hp;
         this.dmg = dmg;

@@ -1,4 +1,7 @@
 import org.junit.Before;
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class TitanTest {
 
@@ -7,6 +10,13 @@ public class TitanTest {
 
     @Before
     public void before(){
-        bob = new Bob();
+        Titan titan = new Bob();
     }
+
+    @Test
+    public void titanCanRoar(){
+        assertEquals("RAWR!", bob.roar());
+    }
+
+
 }

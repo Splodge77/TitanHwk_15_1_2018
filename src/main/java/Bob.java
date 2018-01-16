@@ -1,8 +1,6 @@
 public class Bob extends Titan {
 
-    public String name;
-
-    public String roar(){
-        return super.roar("Bob");
+    public String roar(String titanName){
+        return titanName + " Roars!";
     }
 }

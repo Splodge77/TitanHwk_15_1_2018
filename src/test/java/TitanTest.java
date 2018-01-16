@@ -5,16 +5,16 @@ import static org.junit.Assert.assertEquals;
 
 public class TitanTest {
 
-    Titan titan;
+    Bob bob;
 
     @Before
     public void before(){
-        Titan titan = new Bob();
+        bob = new Bob();
     }
 
     @Test
-    public void titanCanRoar(){
-        assertEquals("Bob Roars!", titan.roar("Bob"));
+    public void bobCanRoar(){
+        assertEquals("Bob Roars!", bob.roar("Bob"));
     }
 
 }

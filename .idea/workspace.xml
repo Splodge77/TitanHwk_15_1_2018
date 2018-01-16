@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d9bfeb-8051-4654-8e68-426cabf89c3f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bob.java" afterPath="$PROJECT_DIR$/src/main/java/Bob.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Titan.java" afterPath="$PROJECT_DIR$/src/main/java/Titan.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TitanTest.java" afterPath="$PROJECT_DIR$/src/test/java/TitanTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,39 +27,39 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Titan.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
               <folding>
-                <element signature="e#55#56#0" expanded="true" />
-                <element signature="e#85#86#0" expanded="true" />
+                <element signature="e#67#68#0" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TitanTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TitanTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TitanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="240">
+              <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bob.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Bob.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Bob.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
               <folding>
                 <element signature="e#83#84#0" expanded="true" />
-                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -369,9 +370,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Titan.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Bob.java" />
         <option value="$PROJECT_DIR$/src/test/java/TitanTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Bob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Titan.java" />
       </list>
     </option>
   </component>
@@ -594,6 +595,18 @@
     <history-entry file="TitanTest_titanCanRoar - 2018.01.16 at 08h 37m 33s.xml">
       <configuration name="TitanTest.titanCanRoar" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TitanTest_titanCanRoar - 2018.01.16 at 08h 52m 05s.xml">
+      <configuration name="TitanTest.titanCanRoar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TitanTest_titanCanRoar - 2018.01.16 at 08h 54m 45s.xml">
+      <configuration name="TitanTest.titanCanRoar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TitanTest_titanCanRoar - 2018.01.16 at 09h 20m 34s.xml">
+      <configuration name="TitanTest.titanCanRoar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TitanTest_titanCanRoar - 2018.01.16 at 09h 21m 35s.xml">
+      <configuration name="TitanTest.titanCanRoar" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -601,14 +614,14 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -637,13 +650,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Bob.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TitanTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
           <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -651,24 +667,21 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Titan.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding>
-            <element signature="e#55#56#0" expanded="true" />
-            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#67#68#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TitanTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bob.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
           </folding>
         </state>
       </provider>

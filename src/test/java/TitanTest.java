@@ -6,7 +6,6 @@ import static org.junit.Assert.assertEquals;
 public class TitanTest {
 
     Titan titan;
-    Bob bob;
 
     @Before
     public void before(){
@@ -15,8 +14,7 @@ public class TitanTest {
 
     @Test
     public void titanCanRoar(){
-        assertEquals("RAWR!", bob.roar());
+        assertEquals("Bob Roars!", titan.roar("Bob"));
     }
-
 
 }

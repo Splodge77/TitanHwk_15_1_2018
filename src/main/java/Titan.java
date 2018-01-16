@@ -1,6 +1,6 @@
 public abstract class Titan {
 
-    public String roar(){
-        return "RAWR!";
+    public String roar(String titan){
+        return titan + " Roars!";
     }
 }
